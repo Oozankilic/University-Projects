@@ -1,6 +1,6 @@
 Python3 is used
 
-run the program in the same folder with sgm files
+run the program in the same folder with Reuters-21578 data set
 
 run as -> python3 searchQuery.py
 

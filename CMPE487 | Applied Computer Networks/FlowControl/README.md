@@ -1,9 +1,9 @@
 ### Wireshark file link: 
    "https://drive.google.com/file/d/17XZ9Qo9PYMAuleaCdMh5_EGwaIYjmogu/view?usp=sharing" 
 							
-# Chat Platform(CP)
+# Chat Platform with Flow Control.
 
-CP is a Python program for chatting with local friends and sending files.
+CP is a Python program for chatting with local friends and sending files. File sending is designed with udp. In the project TCP and receive window implementation is done with UDP.
 It developed in macOS
 
 ## How to run(Requirements) 
